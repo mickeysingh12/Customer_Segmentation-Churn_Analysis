@@ -23,8 +23,6 @@ SQL queries were used to explore and understand the data, and joining all 3 data
 Python deep-dive analysis took this a step further by drilling down into the data to understand the different variables, their datatypes, summary statistics, checking for outliers, and assessing both data quality and tidiness issues that required data cleaning. Performing a distribution analysis for each variable identified unique values and variables that showed potential in providing useful business insights. A cross-correlation analysis helped to check for the relationship between variables and identify variables of interests that can help solve the business problem at hand; which is the ultimate question for the bank - "Why are customers churning?" See link below.
 
 [Link to Python Notebook](https://github.com/mickeysingh12/Customer_Segmentation-Churn_Analysis/blob/master/notebook_final.ipynb)
-
-The PowerBI dashboard highlighted the importance of understanding customer demographics, account information, and transaction behavior in predicting and preventing customer churn. Click the link below to use the dashboard.
 ---
 
 <br>
